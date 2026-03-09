@@ -1,11 +1,14 @@
-
-  {
-    "name": "EgyDead Pro",
-    "url": "https://raw.githubusercontent.com/recloudstream/arabic-extensions/builds/EgyDead.jar",
-    "description": "تحديث السيارات: egydead.motorcycles",
-    "author": "Khaled AI",
-    "version": 25,
-    "language": "ar",
-    "type": "tv"
-  }
+{
+  "name": "Khaled AI Marketing Repo",
+  "author": "Khaled",
+  "description": "المستودع الخاص بخالد لتعلم البرمجة والذكاء الاصطناعي",
+  "pluginLists": [
+    {
+      "name": "Arabic & Global Plugins",
+      "url": "https://raw.githubusercontent.com/recloudstream/lib-main/master/plugins-list.json",
+      "language": "ar-en",
+      "type": "movie"
+    }
+  ]
+}
 
