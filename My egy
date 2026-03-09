@@ -1,0 +1,14 @@
+[
+  {
+    "name": "EgyDead Official",
+    "url": "https://egydead.motorcycles/",
+    "description": "أحدث الأفلام والمسلسلات العربية والأجنبية المترجمة",
+    "language": "ar",
+    "type": "movie",
+    "version": 2,
+    "status": 1,
+    "authors": ["Personal-Repo"],
+    "iconUrl": "https://egydead.motorcycles/favicon.ico",
+    "tvTypes": ["movie", "tvSeries", "anime"]
+  }
+]
