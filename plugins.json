@@ -1,9 +1,16 @@
 [
   {
-    "name": "Arabic & Global Pack",
-    "url": "https://raw.githubusercontent.com/recloudstream/lib-main/master/plugins-list.json",
+    "name": "Akwam",
+    "url": "https://raw.githubusercontent.com/DarkDemon7/CloudStream-Plugins/builds/plugins/Akwam.jar",
+    "language": "ar",
+    "type": "movie"
+  },
+  {
+    "name": "FaselHD",
+    "url": "https://raw.githubusercontent.com/DarkDemon7/CloudStream-Plugins/builds/plugins/FaselHD.jar",
     "language": "ar",
     "type": "movie"
   }
 ]
+
 
