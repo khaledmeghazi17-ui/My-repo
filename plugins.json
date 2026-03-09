@@ -1,9 +1,6 @@
 [
   {
-    "name": "Re-3arabi Plugins",
-    "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/main/plugins-list.json",
-    "language": "ar",
-    "type": "movie"
+    "name": "Arabi CloudStream",
+    "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/main/plugins-list.json"
   }
 ]
-
