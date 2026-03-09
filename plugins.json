@@ -1,9 +1,9 @@
-{
-  "name": "Khaled AI Marketing Repo",
-  "author": "Khaled",
-  "description": "مستودع خالد التعليمي",
-  "pluginLists": [
-    "https://raw.githubusercontent.com/DarkDemon7/CloudStream-Plugins/builds/plugins-list.json"
-  ]
-}
+[
+  {
+    "name": "Arabic & Global Plugins",
+    "url": "https://raw.githubusercontent.com/recloudstream/lib-main/master/plugins-list.json",
+    "language": "ar",
+    "type": "movie"
+  }
+]
 
