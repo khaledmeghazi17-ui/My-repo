@@ -1,8 +1,9 @@
+
 {
   "name": "Khaled Repo",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/khaledmeghazi17-ui/My-repo/main/plugins.json"
+    "https://raw.githubusercontent.com/recloudstream/lib-main/master/plugins-list.json"
   ]
 }
 
